@@ -1,0 +1,90 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+*.spec
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Coverage reports
+.coverage
+coverage.xml
+htmlcov/
+
+# Logs and debugging
+*.log
+*.pot
+*.mo
+
+# Unit test, coverage reports
+test-output/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# ===== Streamlit =====
+# Streamlit cache and config
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# ===== Environment & Secrets =====
+.env
+.env.*
+*.secret
+*.key
+secrets/
+
+# ===== OS & Editor Files =====
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+.code-workspace
+
+# JetBrains IDEs
+.idea/
+
+# Misc
+*.bak
+*.tmp
+*.swp
+*.swo
