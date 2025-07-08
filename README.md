@@ -5,6 +5,15 @@ This project is a **Streamlit-based chatbot** powered by **Google's Gemini API**
 - Get AI-generated responses
 - Save the chat as a downloadable **PDF**
 
+
+---
+
+## 🖼️ Working Screenshot
+
+<p align="center">
+  <img src="screenshots/d09bd829-7dcf-4a9b-a8c1-5eb37313cbad.jpg" alt="Working Screenshot" width="600"/>
+</p>
+
 ---
 
 ## 🚀 Features
